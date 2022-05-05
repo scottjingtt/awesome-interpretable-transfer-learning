@@ -1,10 +1,10 @@
 # Awesome Interpretable Transfer Learning 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-Papers and resources collection about interpretable AI (XAI)
+Papers and resources collection about interpretable/explainable transfer learning (XTL)
 
 # Contents
-- [Awesome-XAI](#awesome-xai)
+- [Awesome Interpretable Transfer Learning](#awesome-interpretable-transfer-learning)
 - [Contents](#contents)
 - [Papers](#papers)
   - [Survey](#survey)
@@ -23,6 +23,7 @@ Papers and resources collection about interpretable AI (XAI)
 ## Journal
 
 ## Conference
+- Visualizing Adapted Knowledge in Domain Transfer [[2021 CVPR]](https://arxiv.org/abs/2104.10602) [[Code]](https://github.com/hou-yz/DA_visualization)
 - This Looks Like That: Deep Learning for Interpretable Image Recognition [[2019 NIPS]](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf) [[Code]](https://github.com/cfchen-duke/ProtoPNet)
 
 
