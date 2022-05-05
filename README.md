@@ -1,10 +1,10 @@
-# Awesome Interpretable Transfer Learning 
+# Awesome Interpretable Transfer Learning (XTL)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
 Papers and resources collection about interpretable/explainable transfer learning (XTL)
 
 # Contents
-- [Awesome Interpretable Transfer Learning](#awesome-interpretable-transfer-learning)
+- [Awesome Interpretable Transfer Learning (XTL)](#awesome-interpretable-transfer-learning-xtl)
 - [Contents](#contents)
 - [Papers](#papers)
   - [Survey](#survey)
