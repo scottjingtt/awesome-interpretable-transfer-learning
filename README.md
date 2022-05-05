@@ -23,10 +23,13 @@ Papers and resources collection about interpretable AI (XAI)
 ## Journal
 
 ## Conference
+- This Looks Like That: Deep Learning for Interpretable Image Recognition [[2019 NIPS]](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf) [[Code]](https://github.com/cfchen-duke/ProtoPNet)
+
 
 ## Preprints
 
 # Datasets
+- Caltech-UCSD Birds-200-2011 (CUB-200) [[2011]](https://authors.library.caltech.edu/27452/)
 
 # Library
 
