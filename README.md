@@ -8,9 +8,13 @@ Papers and resources collection about interpretable/explainable transfer learnin
 - [Contents](#contents)
 - [Papers](#papers)
   - [Explainable/Interpretable AI (XAI)](#explainableinterpretable-ai-xai)
-    - [Survey](#survey)
+    - [Conference](#conference)
+    - [Journal](#journal)
+    - [Preprint](#preprint)
   - [Explainable/Interpretable Transfer Learning (XTL)](#explainableinterpretable-transfer-learning-xtl)
-    - [Survey](#survey-1)
+    - [Conference](#conference-1)
+    - [Journal](#journal-1)
+    - [Preprints](#preprints)
 - [Datasets](#datasets)
   - [XAI](#xai)
   - [XTL](#xtl)
@@ -21,25 +25,22 @@ Papers and resources collection about interpretable/explainable transfer learnin
 
 ## Explainable/Interpretable AI (XAI)
 
-### Survey
 
-**Conference**
+### Conference
 
-**Journal**
+### Journal
 
-**Journal**
+### Preprint
 
 ## Explainable/Interpretable Transfer Learning (XTL)
 
-### Survey
-
-**Conference**
+### Conference
 - Visualizing Adapted Knowledge in Domain Transfer [[2021 CVPR]](https://arxiv.org/abs/2104.10602) [[Code]](https://github.com/hou-yz/DA_visualization)
 - This Looks Like That: Deep Learning for Interpretable Image Recognition [[2019 NIPS]](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf) [[Code]](https://github.com/cfchen-duke/ProtoPNet)
 
-**Journal**
+### Journal
 
-**Preprints**
+### Preprints
 
 # Datasets
 ## XAI
