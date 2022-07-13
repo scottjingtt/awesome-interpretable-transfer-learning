@@ -19,8 +19,14 @@ Papers and resources collection about interpretable/explainable transfer learnin
 
 ## Explainable/Interpretable AI (XAI)
 
-
 **Conference**
+- HIVE: Evaluating the Human Interpretability of Visual Explanations [[2022 ECCV]](https://arxiv.org/pdf/2112.03184.pdf) [[Github]](https://github.com/princetonvisualai/HIVE) [[Project]](https://princetonvisualai.github.io/HIVE/)
+- B-cos Networks: Alignment is All We Need for Interpretability [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bohle_B-Cos_Networks_Alignment_Is_All_We_Need_for_Interpretability_CVPR_2022_paper.pdf)
+- HINT: Hierarchical Neuron Concept Explainer [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_HINT_Hierarchical_Neuron_Concept_Explainer_CVPR_2022_paper.pdf)
+- Interpretable Part-Whole Hierarchies and Conceptual-Semantic Relationships in Neural Networks [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Garau_Interpretable_Part-Whole_Hierarchies_and_Conceptual-Semantic_Relationships_in_Neural_Networks_CVPR_2022_paper.pdf)
+- Deformable_ProtoPNet_An_Interpretable_Image_Classifier_Using_Deformable_Prototypes [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Donnelly_Deformable_ProtoPNet_An_Interpretable_Image_Classifier_Using_Deformable_Prototypes_CVPR_2022_paper.pdf)
+- Proto2Proto: Can you recognize the car, the way I do? [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Keswani_Proto2Proto_Can_You_Recognize_the_Car_the_Way_I_Do_CVPR_2022_paper.pdf)
+- Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation [[2022 CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf)
 - Invertible Concept-based Explanations for CNN Models with Non-negative Concept Activation Vectors [[2021 AAAI]](https://arxiv.org/pdf/2006.15417.pdf)
 - Interpretable Compositional Convolutional Neural Networks [[2021 IJCAI]](https://www.ijcai.org/proceedings/2021/0409.pdf)
 - Graph-based High-Order Relation Discovery for Fine-grained Recognition [[2021 CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Graph-Based_High-Order_Relation_Discovery_for_Fine-Grained_Recognition_CVPR_2021_paper.pdf)
@@ -40,6 +46,9 @@ Papers and resources collection about interpretable/explainable transfer learnin
 
 **Preprint**
 
+**Workshop**
+- This Looks Like That... Does it? Shortcomings of Latent Space Prototype Interpretability in Deep Networks [[2021 ICML Workshop]](https://icml2021-xai.github.io) [[Github]](https://github.com/fanconic/this-does-not-look-like-that)
+
 ## Explainable/Interpretable Transfer Learning (XTL)
 
 **Conference**
@@ -54,9 +63,10 @@ Papers and resources collection about interpretable/explainable transfer learnin
 
 # Datasets
 ## XAI
+- Caltech-UCSD Birds-200-2011 (CUB-200) [[2011]](https://authors.library.caltech.edu/27452/)
 
 ## XTL
-- Caltech-UCSD Birds-200-2011 (CUB-200) [[2011]](https://authors.library.caltech.edu/27452/)
+
 
 # Lectures and Tutorials
 
